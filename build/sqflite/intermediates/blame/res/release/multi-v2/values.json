@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/np/Documents/Khushi/Flutter/flutter_todo_app/build/sqflite/intermediates/res/merged/release/values/values.xml",
+            "outputFile": "/Users/np/Documents/Khushi/Flutter/Git/flutter_todo_app/build/sqflite/intermediates/res/merged/release/values/values.xml",
             "map": [
                 {
                     "source": "/Users/np/.gradle/caches/transforms-2/files-2.1/ae13efc3dbae5c9ee58d4933337fcd21/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "outputFile": "/Users/np/Documents/Khushi/Flutter/flutter_todo_app/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/np/Documents/Khushi/Flutter/Git/flutter_todo_app/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/np/.gradle/caches/transforms-2/files-2.1/ae13efc3dbae5c9ee58d4933337fcd21/coordinatorlayout-1.0.0/res/values/values.xml",

@@ -89,7 +89,7 @@ class _AddEditToDoItemState extends State<AddEditToDoItem> {
                           controller: _dateController,
                           format: format,
                           validator: (value){
-                            if (value.toString().isEmpty) {
+                            if (value.toString().isEmpty || value == null) {
                               return 'Please select task date';
                             }
                             return null;
